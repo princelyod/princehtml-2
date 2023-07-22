@@ -1,0 +1,21 @@
+header{
+    background-color: aquamarine;
+    border-bottom: 3px solid;
+}
+nav{
+    margin: 16px;
+    flex-direction: row;
+}
+ul{
+    border-bottom: 1px solid;
+    
+}
+footer{
+    align-content: center;
+    justify-content: center;
+    background-color: brown;
+}
+article{
+    float: right;
+}
+ 
